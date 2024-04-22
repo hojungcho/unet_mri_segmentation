@@ -6,8 +6,7 @@ MRI (Magnetic Resonance Imaging) scans give us a lot of details about the human 
 
 ### About the project
 During that time, our lab was gearing up to establish a complete preprocessing pipeline using deep learning. This included tasks such as defacing, augmentation, harmonization, tissue classification, and others. 
-The part I was asked to work on was tissue classification. I was tasked with developing a model to predict labels for new MRI images. Initially, the focus was on implementing this process for T1 images. Later on, I was also assigned the responsibility of training the model on another modality—T2 images. 
-This second task was somewhat experimental, as traditional software typically relies solely on T1 images.
+The part I was asked to work on was tissue classification. I was tasked with developing a model to predict labels for new MRI images. Initially, the focus was on implementing this process for T1 images. Later on, I was also assigned the responsibility of training the model on another modality—T2 images. This second task was somewhat experimental, as traditional software typically relies solely on T1 images.
 
 ### Dataset
 
