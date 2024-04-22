@@ -3,11 +3,19 @@ I worked on this code during my internship at CNALab, starting in January 2022. 
 
 ## Overview
 
+
+
 ### Intro
 
 ### Dataset
 
-### 
+### Training data: Label Creation
+
+### Unet: Training model
+
+### Result
+
+## Analysis & Plans
 
 
 
